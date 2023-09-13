@@ -31,7 +31,7 @@ Os componentes utilizados para este projeto foram:
 * Jumpers
 
 ## ⚡ Diagrama Elétrico:
-![Diagrama Elétrico] (./Circuito Elétrico.jpg)
+![Diagrama Elétrico](./Circuito.jpg)
 
 
 ## 📋 Manual de Operação:
